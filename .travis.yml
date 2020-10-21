@@ -13,3 +13,7 @@ go:
   - 1.12.x
 
 install: go get -v -t
+
+arch:
+  - amd64
+  - ppc64le
